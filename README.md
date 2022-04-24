@@ -1,2 +1,2 @@
 ### Hi there 👋
-[![ELVIN GitHub Banner](./assets/GitHubHeader.png)](https://github.com/elvin4)
+[![ELVIN stats](https://www.codewars.com/users/ELVIN4/badges/micro)](https://github.com/elvin4)
