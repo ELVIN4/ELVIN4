@@ -11,4 +11,3 @@
 ![Skills SQlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Skills Celery](https://img.shields.io/badge/Celery-07405E?style=for-the-badge&logo=celery&logoColor=white)
 ![Skills Git](https://img.shields.io/badge/Git-07405E?style=for-the-badge&logo=git&logoColor=white)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
